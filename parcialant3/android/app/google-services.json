@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "998740865890",
+    "project_id": "miparcial3-66bfc",
+    "storage_bucket": "miparcial3-66bfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998740865890:android:469b2765b65bee4bedb23b",
+        "android_client_info": {
+          "package_name": "com.example.parcialant3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998740865890-d0b3lugarvpqvprjsd8d3ta1pducjvpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3r4ahxAvfat59CeseK8JteXNthc4fu6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998740865890-d0b3lugarvpqvprjsd8d3ta1pducjvpe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
